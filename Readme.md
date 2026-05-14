@@ -29,7 +29,7 @@ This demonstrates Infrastructure as Code (IaC) concepts using the AWS SDK for Py
 Python Script
       ↓
     boto3
- ┌─────────────┬─────────────┬─────────────┐
+ ┌─────────────┬─────────────┬
  ↓             ↓             ↓
 EC2           S3            IAM
 ```
@@ -104,19 +104,19 @@ python main.py
 
 ## 🔹 EC2 Instance Created
 
-![EC2](screenshots/2.png)
+![EC2](Screenshots/2.png)
 
 ---
 
 ## 🔹 S3 Bucket Created
 
-![S3](screenshots/3.png)
+![S3](Screenshots/3.png)
 
 ---
 
 ## 🔹 Implementation
 
-![IAM](screenshots/1.png)
+![IAM](Screenshots/1.png)
 
 ---
 
